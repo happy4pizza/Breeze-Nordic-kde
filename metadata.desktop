@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Breeze-Nordic
+Comment=The perfect mix of the Breeze and Nordic Theme.
+X-KDE-PluginInfo-Author=happy4pizza
+X-KDE-PluginInfo-Email=happy4pizza@gmail.com
+X-KDE-PluginInfo-Name=Breeze-Nordic
+X-KDE-PluginInfo-Version=1.0.1
+X-KDE-PluginInfo-Website=https://github.com/happy4pizza/Breeze-Nordic-KDE
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=CC BY-SA 4.0
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[AdaptiveTransparency]
+enabled=true
