@@ -1,4 +1,4 @@
-# Breeze-Nordic-KDE
+# Breeze-Nordic-kde
 The perfect mix of the Breeze and Nordic Theme.
 ![Preview](preview/preview.png)
 ---
